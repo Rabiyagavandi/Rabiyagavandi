@@ -69,6 +69,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rabiyagavandi/Rabiyagavandi/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
