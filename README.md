@@ -72,7 +72,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rabiyagavandi/Rabiyagavandi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rabiyagavandi/Rabiyagavandi/output/snake.svg" />
 </p>
 
 ---
