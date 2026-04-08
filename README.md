@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rabiyagavandi&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabiyagavandi&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabiyagavandi&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Rabiyagavandi&theme=tokyonight&border_radius=10" height="170"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 💻 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiyagavandi&layout=compact&theme=tokyonight&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabiyagavandi&layout=compact&theme=tokyonight&border_radius=10"/>
 </p>
 
 ---
